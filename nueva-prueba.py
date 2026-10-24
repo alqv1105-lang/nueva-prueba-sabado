@@ -19,3 +19,5 @@ def calcular_total_venta(precio, cantidad):
 
 print(calcular_total_venta(100, 3))
 
+
+
